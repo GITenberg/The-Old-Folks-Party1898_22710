@@ -1,0 +1,33 @@
+_repo: The-Old-Folks-Party1898_22710
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bellamy, Edward
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '327'
+    url: http://www.gutenberg.org/2009/agents/327
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bellamy
+description: 'In this charming tale from American author Edward Bellamy, a group of
+  young friends strikes upon a novel idea for a get-together: they decide to pretend
+  it is 50 years in the future and adopt clothing, behaviors, opinions and mannerisms
+  reflecting what they predict their older selves will be like.'
+gutenberg_issued: '2007-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+title: 'The Old Folks'' Party
+
+  1898'
+url: http://www.gutenberg.org/ebooks/22710
